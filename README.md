@@ -1,6 +1,6 @@
 ## **Hi there, I'm YK 👋**
 
-## **Tech Stack**
+## **💻 Tech Stack**
 
 | Category | Technologies |
 |----------|--------------|
@@ -11,24 +11,18 @@
 | **AI & Machine Learning** | Ollama · OpenAI API |
 | **Tools & Version Control** | Git · GitHub · VS Code · Android Studio|
 
-## **Past Projects**
+## **📁 Past Projects**
 
 ### [🏫 UniTask](projects/UniTask.md)
-
-AI-Assisted Collaborative Task Management System for University Students
 
 ---
 
 ### [🤖 Hotel Booking Chatbot](projects/AIHotelChatbot.md)
 
-Machine Learning Chatbot
-
 ---
 
 ### [⚡ Lightning Express](projects/LightningExpress.md)
 
-A Delivery Application — Driver Module
-
 ---
 
-...and more
+... and more!

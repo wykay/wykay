@@ -1,6 +1,6 @@
 # 🤖 Hotel Booking Chatbot
 
-## Screenshots
+## AI FAQ Chatbot for Hotel
 
 **December 2025**
 

@@ -1,6 +1,6 @@
 # ⚡ Lightning Express
 
-## Delivery Application — Driver Module
+## Parcel Delivery Application (Driver Module)
 
 **September 2025**
 
