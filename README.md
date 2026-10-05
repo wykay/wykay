@@ -23,5 +23,4 @@ Interested in Application Development, Web Development, and AI Integration.
 
 ### [⚡ Lightning Express](projects/LightningExpress.md)
 
-
 ... and more!
