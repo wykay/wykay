@@ -1,5 +1,9 @@
 ## **Hi there, I'm YK 👋**
 
+Bachelor in Information Technology (Software Systems Development). 
+
+Interested in Application Development, Web Development, and AI Integration.
+
 ## **💻 Tech Stack**
 
 | Category | Technologies |
@@ -15,14 +19,9 @@
 
 ### [🏫 UniTask](projects/UniTask.md)
 
----
-
 ### [🤖 Hotel Booking Chatbot](projects/AIHotelChatbot.md)
-
----
 
 ### [⚡ Lightning Express](projects/LightningExpress.md)
 
----
 
 ... and more!
